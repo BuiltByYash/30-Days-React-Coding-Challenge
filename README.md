@@ -1,16 +1,34 @@
-# React + Vite
+# 🚀 Day 1/30 – React.js Coding Challenge
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my **30 Days React.js Coding Challenge**! 🎉
 
-Currently, two official plugins are available:
+For Day 1, I started my React.js journey by learning the fundamentals of React and building a simple profile page using reusable components.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📚 Concepts Learned
 
-## React Compiler
+✅ React Functional Components  
+✅ JSX Syntax  
+✅ Import & Export Components  
+✅ Component-Based Architecture  
+✅ React Project Setup using Vite  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 💻 Project Overview
 
-## Expanding the ESLint configuration
+Built a simple React application containing:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Header Component
+- Profile Card Component
+- Footer Component
+
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript (ES6+)
+- Vite
+- HTML
+- CSS
+
+## 📌 Key Learning
+
+This project helped me understand how React applications are structured using reusable components and how multiple components work together to create a user interface.
+
